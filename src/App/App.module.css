@@ -1,0 +1,12 @@
+.main {
+  margin: 0 auto;
+  max-width: 1366px;
+}
+
+.title {
+  text-align: center;
+}
+
+.formWrapper {
+  max-width: 300px;
+}
